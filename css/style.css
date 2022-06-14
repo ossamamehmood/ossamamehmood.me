@@ -63,6 +63,10 @@ ul,li{
 /* Typography
 ================================================== */
 
+.checked {
+	color: #c80a48;
+  }
+
 body, p{
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
