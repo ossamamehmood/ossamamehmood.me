@@ -739,28 +739,31 @@
 			<div class="row">
 				<div class="col-md-6 col-sm-6 wow fadeInRight">
 					<div class="contact-form">
-						<form class="contact-box">
+						<form class="contact-box" method="post" action="contact_form_process.php">
 							<div class="form-group">
 								<label>Name</label>
-								<input type="text" class="form-control">
+								<input type="text" name="name" class="form-control">
 							</div>
 
 							<div class="form-group">
 								<label>Email address</label>
-								<input type="text" class="form-control">
+								<input type="text" name="email" class="form-control">
 							</div>
 
 							<div class="form-group">
 								<label>Message</label>
-								<input type="text" class="form-control">
+								<input type="text" name="message" class="form-control">
 							</div>
-						</form>
-
+						
 						<div class="row">
 							<div class="col-md-12">
-								<a href="#" class="btn btn-default">Contact me</a>
+								<input type="submit" value="Submit" class="btn btn-default">
+								<!-- <input type="submit" value="Submit"> -->
 							</div>
 						</div>
+					
+					</form>
+
 					</div>
 				</div>
 					<div class="col-md-6 col-sm-6 wow fadeInLeft">
@@ -801,7 +804,7 @@
 						<li><a href="https://twitter.com/ossamamehmood"><i class="fa fa-twitter"></i></a></li>
 						<li><a href="https://www.instagram.com/ossamamehmood"><i class="fa fa-instagram"></i></a></li> 
 						<li><a href="https://www.pinterest.com/ossamamehmood"><i class="fa fa-pinterest"></i></a></li>
-						<li><a href="https://www.linkedin.com/in/ossamamehmoo"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://www.linkedin.com/in/ossamamehmood"><i class="fa fa-linkedin"></i></a></li>
 						<li><a href="https://www.youtube.com/channel/UCiCtAidDDedbB2Izs_3E0oA"><i class="fa fa-youtube"></i></a></li>
 						<li><a href="https://www.behance.net/ossamamehmood"><i class="fa fa-behance"></i></a></li>
 						<li><a href="https://dribbble.com/ossamamehmood"><i class="fa fa-dribbble"></i></a></li>
