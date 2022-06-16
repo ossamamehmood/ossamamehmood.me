@@ -6,6 +6,8 @@
   <img alt="" style="{max-height: 20px}" src="./Prototype/Prototype (ossamamehmood).png">
 </p>
 
+</div>
+  
 ##                                                 `Greetings`..!
 ######                                              I'm `Ossama Mehmood`
 ######                                              `DIGITAL CREATOR`
