@@ -6,7 +6,6 @@
 
 # Ossama Mehmood | Interface Design
 
-## Prototype / Interface
 <p align="left">
   <img alt="" style="{max-height: 20px}" src="./Prototype/Prototype (ossamamehmood).png">
 </p>
