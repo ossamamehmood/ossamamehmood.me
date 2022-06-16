@@ -1,14 +1,13 @@
-# Ossama Mehmood `(ossamamehmood.me)`
+# Ossama Mehmood 샘 `(ossamamehmood.me)`
 
 ##                                                 `Greetings`..!
 ######                                              I'm `Ossama Mehmood`
 ######                                              `DIGITAL CREATOR`
 
-# Ossama Mehmood | Interface Design
+# Ossama Mehmood 샘 | Protoype Design Preview
 
-## Home Page Interface
 <p align="left">
-  <img alt="" style="{max-height: 20px}" src="./images/banner.jpg">
+  <img alt="" style="{max-height: 20px}" src="./Prototype/Prototype (ossamamehmood).png">
 </p>
 
 # `OSSAMAMEHMOOD`
@@ -19,6 +18,10 @@
 ### `Testimonials`
 ### `Portfolio`
 ### `Contact me`
+
+<p align="left">
+  <img alt="" style="{max-height: 20px}" src="./Prototype/Website Preview/Website Preview.png">
+</p>
 
 ## © `2021` © Ossama Mehmood. `Github` by `ossamamehmood`
 
