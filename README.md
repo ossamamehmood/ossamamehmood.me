@@ -27,4 +27,4 @@
 
 ##### This is `Personal Project` is `Successfully Proceeded` 
 
-##### `Right` Are Reserved `©`2022 `ossamamehmood®` 
+##### `Right` Are Reserved `©`2022 `ossamamehmood®`
