@@ -6,9 +6,9 @@
 
 # Ossama Mehmood | Interface Design
 
-## Home Page Interface
+## Prototype / Interface
 <p align="left">
-  <img alt="" style="{max-height: 20px}" src="./images/banner.jpg">
+  <img alt="" style="{max-height: 20px}" src="./Prototype/Prototype (ossamamehmood).png">
 </p>
 
 # `OSSAMAMEHMOOD`
