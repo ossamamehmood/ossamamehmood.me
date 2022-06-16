@@ -20,7 +20,7 @@
 ### `Contact me`
 
 <p align="left">
-  <img alt="" style="{max-height: 20px}" src="./Prototype/Website Preview/Website Preview/.pdf">
+  <img alt="" style="{max-height: 20px}" src="./Prototype/Website Preview/Website Preview.pdf">
 </p>
 
 ## © `2021` © Ossama Mehmood. `Github` by `ossamamehmood`
