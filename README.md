@@ -4,7 +4,7 @@
 ######                                              I'm `Ossama Mehmood`
 ######                                              `DIGITAL CREATOR`
 
-# Ossama Mehmood | Interface Design
+# Ossama Mehmood | Protoype Preview Design
 
 <p align="left">
   <img alt="" style="{max-height: 20px}" src="./Prototype/Prototype (ossamamehmood).png">
