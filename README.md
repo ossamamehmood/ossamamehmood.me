@@ -21,6 +21,8 @@
   <img alt="" style="{max-height: 20px}" src="./Prototype/Website Preview/Website Preview.png">
 </p>
 
+<div align="center">
+
 ## © `2022` © Ossama Mehmood. `Github` by `ossamamehmood`
 
 ##### This is `Personal Project` is `Successfully Proceeded` 
